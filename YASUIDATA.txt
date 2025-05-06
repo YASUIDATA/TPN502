@@ -1,0 +1,1 @@
+vless://20b5984d-fb72-422e-8d3a-fe1b8041b082@5.104.80.188:24702?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#SB%20Slow-TPN%20502
